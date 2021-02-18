@@ -1,0 +1,9 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.vs
+/LoadBalancingHttpHandler/bin
+/LoadBalancingHttpHandler/obj
+/sampleapp/obj
+/sampleapp/bin
